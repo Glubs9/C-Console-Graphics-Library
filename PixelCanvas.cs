@@ -32,7 +32,7 @@ class PixelCanvas{
 
     }
 
-    public void OutPutAndClear(){
+    public void OutputAndClear(){
         Console.Clear();
         Output();
     }
