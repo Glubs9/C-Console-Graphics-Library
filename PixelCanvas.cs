@@ -26,6 +26,7 @@ class PixelCanvas{
                 Console.BackgroundColor = board[x,y];
                 Console.Write("  ");
             }
+            Console.ResetColor();
             Console.WriteLine();
         }
         Console.ResetColor();
